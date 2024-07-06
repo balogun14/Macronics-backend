@@ -96,5 +96,6 @@ urllib3==2.2.2
 vine==5.1.0
 virtualenv==20.26.3
 wcwidth==0.2.13
+whitenoise==6.7.0
 wrapt==1.16.0
 yarl==1.9.4
